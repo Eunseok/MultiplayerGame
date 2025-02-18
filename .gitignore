@@ -10,6 +10,30 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+# 추가한 항목들
+/[Aa]ssets/Packages/
+/[Aa]ssets/[Ss]treamingAssets/
+/[Uu]ser[Ss]ettings/
+*.preferences
+/[Bb]uilds/WebGL/
+/[Ll]ibrary/WebGLTemplates/
+/[Ww]eb[Gg][Ll]_Cache/
+/google-services.json
+/firebase-debug.log
+/firebase-debug.*
+/.firebase/
+/Assets/Firebase/*
+/Assets/StreamingAssets/google-services-desktop.json
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.iml
+*.sublime-project
+*.sublime-workspace
+/[Cc]loud[Bb]uild/
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/

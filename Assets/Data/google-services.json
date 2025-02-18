@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "317082957808",
+    "firebase_url": "https://multiplayergame-c1494-default-rtdb.firebaseio.com",
+    "project_id": "multiplayergame-c1494",
+    "storage_bucket": "multiplayergame-c1494.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317082957808:android:08f47091c0097929ca0f35",
+        "android_client_info": {
+          "package_name": "com.owe.multiplayergame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBni8WDzRfYCmBAsd45c2TS4LPlXhU_v80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
